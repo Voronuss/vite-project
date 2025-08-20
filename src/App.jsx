@@ -1,5 +1,5 @@
 import IntroSection from './components/IntroSection.jsx';
-import Header from './components/Header.jsx';
+import Header from './components/Header/Header.jsx';
 import TeachingSection from './components/TeachingSection.jsx';
 import DifferencesSection from './components/DifferencesSection.jsx';
 import TabsSection from './components/TabsSection.jsx';
