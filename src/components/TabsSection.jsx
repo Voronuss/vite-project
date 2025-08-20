@@ -9,7 +9,7 @@ export default function TabsSection({ active, onChange }) {
       <Button
         isActive={active === 'feedback'}
         onClick={() => onChange('feedback')}>
-        Обратная связь
+        Обратная связь!!!
       </Button>
     </section>
   );
